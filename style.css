@@ -3,6 +3,8 @@ body, html{
 	height: 100%;
 }
 
+
+
 body{
 	font: 'Raleway', sans-serif;
 	color: rgba(0,0,0,0.5);
@@ -10,7 +12,6 @@ body{
 	text-transform: uppercase;
 	letter-spacing: 0.5em;
 	top: 17%;
-	background: linear-gradient(to right, #21176e, #410b0b);
 }
 
 h1{
@@ -21,6 +22,7 @@ h1{
 	letter-spacing: 0.5em;
 	width: 100%;
 }
+	
 
 h3{
 	font: 900 1em 'Raleway', sans-serif;
